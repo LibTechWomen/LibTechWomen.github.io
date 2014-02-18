@@ -125,6 +125,46 @@ body {
   color: rgba(255,255,255,.5);
 }
 
+/*
+ * hover effects for social icons
+ */
+
+.fa-twitter:hover,
+.fa-twitter:active {
+  color: #55ACEE;
+}
+
+.fa-facebook:hover,
+.fa-facebook:active {
+  color: #3B5999;
+}
+
+.fa-google-plus:hover,
+.fa-google-plus:active {
+  color: rgb(223, 82, 57);
+}
+
+.fa-user:hover,
+.fa-user:active {
+  color: #4285F4;
+}
+
+.fa-tumblr:hover,
+.fa-tumblr:active {
+  color: rgb(44, 71, 98);
+}
+
+.fa-github:hover,
+.fa-github:active {
+  color: #000;
+}
+
+/* this is speculative, red
+could be any color */
+.fa-envelope:hover,
+.fa-envelope:active {
+  color: #F22;
+}
 
 /*
  * Affix and center
